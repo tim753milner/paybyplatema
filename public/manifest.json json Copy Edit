@@ -1,0 +1,9 @@
+{
+  "short_name": "PayByPlateMA",
+  "name": "PayByPlateMA Toll Tracker",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
