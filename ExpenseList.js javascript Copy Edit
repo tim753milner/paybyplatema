@@ -1,0 +1,16 @@
+import React from 'react';
+import './ExpenseList.css';
+
+function ExpenseList() {
+  return (
+    <div className="expense-list">
+      <h2>Recent Toll Charges</h2>
+      <ul>
+        <li>Plate: 123ABC - $3.50</li>
+        <li>Plate: 456XYZ - $2.75</li>
+      </ul>
+    </div>
+  );
+}
+
+export default ExpenseList;
